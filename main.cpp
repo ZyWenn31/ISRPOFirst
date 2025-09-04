@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "master branch hello";
+    std::cout << "Hello second World!" << std::endl;
     return 0;
 }
