@@ -1,6 +1,8 @@
 #комментарий
 
-!test.txt
+
 *.txt
+!test.txt
+
 
 
