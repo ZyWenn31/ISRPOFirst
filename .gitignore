@@ -2,7 +2,7 @@
 
 
 *.txt
-!test.txt
+!notIgnore/test.txt
 
 
 
